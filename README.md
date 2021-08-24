@@ -5,7 +5,7 @@
 
 *  🌱 I’m currently studing on Etec Adolpho Berezin
 *  🥇 I’m looking for a first job
-*   📍  Mongaguá, São Paulo, Brazil
+*   📍   Mongaguá, São Paulo, Brazil
 
 Junior Developer who 💘 loves collaborate with new projects and help people.
 
