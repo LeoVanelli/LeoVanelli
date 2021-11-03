@@ -7,9 +7,14 @@
 
 <p align="left"> 
 *  🌱 I’m currently studing on Etec Adolpho Berezin
+</p>
+<p align="left"> 
 *  🥇 Working as a System Analyst at Softwillians IT
+</p>
+<p align="left"> 
 *  📍  Mongaguá, São Paulo, Brazil
-
+</p>
+<p align="left">
 Junior Developer who 💘 loves collaborate with new projects and help people.
 </p>
 
