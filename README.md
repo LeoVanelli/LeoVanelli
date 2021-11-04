@@ -40,13 +40,11 @@ object **LEANDRO** {
 [twitter]: https://twitter.com/leandrovanelli
 [instagram]: https://www.instagram.com/paoemanteiga32/?hl=pt
 [linkedin]: https://www.linkedin.com/in/leandro-vanelli/
-[outlook]: leandro.vanelli@hotmail.com
 <br>
 
 #### Rede Sociais!
 
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
-👔 [Linkedin][linkedin] **|** 
-✉️ [Outlook][outlook]
+👔 [Linkedin][linkedin] 
 
