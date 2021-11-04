@@ -35,15 +35,12 @@ object **LEANDRO** {
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leovanelli)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[twitter]: https://twitter.com/leandrovanelli
-[instagram]: https://www.instagram.com/paoemanteiga32/?hl=pt
-[linkedin]: https://www.linkedin.com/in/leandro-vanelli/
-<br>
-
 ## Rede Sociais!
 
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
 👔 [Linkedin][linkedin] 
 
+[twitter]: https://twitter.com/leandrovanelli
+[instagram]: https://www.instagram.com/paoemanteiga32/?hl=pt
+[linkedin]: https://www.linkedin.com/in/leandro-vanelli/
