@@ -4,7 +4,7 @@ Melhorar cada dia nessa imensidão que é o universo da programação é o meu h
 
 ## 🎧 Mais sobre mim
 
-<img src="https://kellyfoulk.herokuapp.com/static/me_coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://kellyfoulk.herokuapp.com/static/me_coding.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 ```kotlin
 object **LEANDRO** {
