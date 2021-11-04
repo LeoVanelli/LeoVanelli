@@ -41,7 +41,7 @@ object **LEANDRO** {
 [linkedin]: https://www.linkedin.com/in/leandro-vanelli/
 <br>
 
-#### Rede Sociais!
+## Rede Sociais!
 
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
