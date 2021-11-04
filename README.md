@@ -37,19 +37,16 @@ object **LEANDRO** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/ 
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[twitter]: https://twitter.com/leandrovanelli
+[instagram]: https://www.instagram.com/paoemanteiga32/?hl=pt
 [linkedin]: https://www.linkedin.com/in/leandro-vanelli/
+[outlook]: leandro.vanelli@hotmail.com
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
+🐦 [Twitter][twitter] **|** 
+📷 [Instagram][instagram] **|** 
+👔 [Linkedin][linkedin] **|** 
+✉️ [Outlook][outlook]
 
