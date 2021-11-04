@@ -2,7 +2,7 @@
 
 Melhorar cada dia nessa imensidão que é o universo da programação é o meu hobbie e profissão !
 
-## <img width="45" alt="about" src="https://toppng.com/uploads/preview/apstablook-undertale-napstablook-pixel-art-11563041151qrqnsvfhhj.png"> Mais sobre mim
+## 🎧 Mais sobre mim
 
 <img src="https://kellyfoulk.herokuapp.com/static/me_coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
