@@ -29,11 +29,11 @@ object **LEANDRO** {
 
 ## **GitHub Estatísticas**
 
-<p align="right"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical) <p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical)
 
-<p align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/leandrovanelli
