@@ -2,7 +2,7 @@
 
 Melhorar cada dia nessa imensidão que é o universo da programação é o meu hobbie e profissão !
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://kellyfoulk.herokuapp.com/static/me_coding.gif"> Mais sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
