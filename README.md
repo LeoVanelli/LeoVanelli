@@ -2,9 +2,9 @@
 
 Melhorar cada dia nessa imensidão que é o universo da programação é o meu hobbie e profissão !
 
-## <img width="45" alt="about" src="https://kellyfoulk.herokuapp.com/static/me_coding.gif"> Mais sobre mim
+## <img width="45" alt="about" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fapstablook-undertale-napstablook-pixel-art-PNG-free-PNG-Images_197368&psig=AOvVaw33gUtAiEe8qiKIOLEB_dHM&ust=1636073781859000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi3247A_fMCFQAAAAAdAAAAABBG"> Mais sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://kellyfoulk.herokuapp.com/static/me_coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ```kotlin
 object **LEANDRO** {
