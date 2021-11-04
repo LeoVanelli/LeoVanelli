@@ -31,11 +31,7 @@ Junior Developer who 💘 loves collaborate with new projects and help people.
   <!-- .NET -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- MySQL-->
 
-<a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
-
-<p align="left">&nbsp;
+<p align="left" href = "https://github.com/Gurupreet">&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&locale=en" alt="leovanelli" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&theme=dracula&hide_langs_below=1" />
 </p>
