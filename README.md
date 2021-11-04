@@ -29,13 +29,10 @@ object **LEANDRO** {
 
 ## **GitHub Estatísticas**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical&align=left)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&layout=compact&aligh=right)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leovanelli)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Rede Sociais!
 
