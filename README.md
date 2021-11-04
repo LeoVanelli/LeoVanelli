@@ -29,11 +29,8 @@ object **LEANDRO** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/LeoVanelli">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical)
 
-</a>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&line_height=27" alt="LeoVanelli github stats"/>
