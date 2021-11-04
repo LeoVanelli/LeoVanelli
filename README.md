@@ -29,12 +29,14 @@ object **LEANDRO** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovanelli&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/LeoVanelli">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=radical)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovanelli)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&line_height=27" alt="LeoVanelli github stats"/>
 </a>
 
 [twitter]: https://twitter.com/leandrovanelli
