@@ -30,10 +30,9 @@ Junior Developer who 💘 loves collaborate with new projects and help people.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
   <!-- .NET -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- MySQL-->
-</p>
-  
+
 <a href="https://github.com/LeoVanelli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
-
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leovanelli&show_icons=true&theme=dracula&locale=en" alt="leovanelli" /></p>
