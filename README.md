@@ -11,7 +11,7 @@ object **LEANDRO** {
  val name = "LEANDRO GONÇALVES VANELLI"
  val acknowledgements = "BACK-END"
  
- val primarySkillset = "SCRUM, SOLID E BOM EM FAZER CAFÉ"
+ val primarySkillset = "SCRUM, SOLID, BOM EM FAZER CAFÉ"
  val languages = listOf("C#", "Python", "SQL", "NodeJS", "Angular") 
 
 }
