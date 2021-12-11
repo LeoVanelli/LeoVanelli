@@ -1,6 +1,6 @@
 ### Olá, eu sou Leandro Vanelli 👋
 
-Melhorar cada dia nessa imensidão que é o universo da programação é o meu hobbie e profissão ! ( Faz tanto sentido que até rima :p )
+Melhorar cada dia nessa imensidão que é o universo da programação é o meu hobbie e profissão !
 
 ## 🎧 Mais sobre mim
 
